@@ -1,9 +1,11 @@
+<!--
 ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+-->
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -19,7 +21,7 @@ Journals
 ======
  - **Zhang Shiyu**, Pecora Federico. Online Sequential Task Assignment with
    Execution Uncertainties for Multiple Robot Manipulators. IEEE
-   Robotics and Automation Letters, online available
+   Robotics and Automation Letters (2021): online available
  - **Zhang Shiyu**, Zanchettin Andrea Maria, Villa Renzo, Dai Shuling.
    "Real-time trajectory planning based on joint-decoupled optimization
    in human-robot interaction." Mechanism and Machine Theory 144 (2020):
