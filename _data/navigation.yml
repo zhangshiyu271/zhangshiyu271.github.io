@@ -16,7 +16,7 @@ main:
   #  url: /portfolio/
         
   - title: "CV"
-    url: /cv/
+    url: http://zhangshiyu271.github.io/files/CV_zhangshiyu.pdf
     
   - title: "Blog"
     url: /year-archive/
