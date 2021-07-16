@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: " "
@@ -13,13 +12,11 @@ author_profile: true
 
 {% include base_path %}
 
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-
-Journals
+Journal Articles
 ======
  - **Zhang Shiyu**, Pecora Federico. Online Sequential Task Assignment with
    Execution Uncertainties for Multiple Robot Manipulators. IEEE
