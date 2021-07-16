@@ -45,9 +45,7 @@ Journal Articles
  - **Zhang Shiyu**, Dai Shuling, Zhao Yongjia. Continuous Trajectory
    Planning Based on Learning Optimization in High Dimensional Input
    Space for Serial Manipulators. Engineering Optimization, accepted
- - **Zhang Shiyu**, Pecora Federico. Loosely­Coupled Motion Coordination for
-   MultipleRobot Manipulators in Shared Workspaces. IEEE transactions on
-   Robotics (under second review)
+
    
 Patents
 ======
