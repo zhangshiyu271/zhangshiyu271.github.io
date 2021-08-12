@@ -23,28 +23,25 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Journal Articles
 ======
- - **Zhang Shiyu**, Pecora Federico. Online Sequential Task Assignment with
-   Execution Uncertainties for Multiple Robot Manipulators. *IEEE
-   Robotics and Automation Letters*, online available
+ - **Zhang Shiyu**, Pecora Federico. [Online Sequential Task Assignment with
+   Execution Uncertainties for Multiple Robot Manipulators](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9468904). *IEEE
+   Robotics and Automation Letters*, 2021. [[video](https://youtu.be/8s8kcXHJHM8)]
  - **Zhang Shiyu**, Dai Shuling, Zhao Yongjia. Continuous Trajectory
    Planning Based on Learning Optimization in High Dimensional Input
-   Space for Serial Manipulators. *Engineering Optimization*, accepted
+   Space for Serial Manipulators. *Engineering Optimization*, accepted.
  - **Zhang Shiyu**, Zanchettin Andrea Maria, Villa Renzo, Dai Shuling.
-   "Real-time trajectory planning based on joint-decoupled optimization
-   in human-robot interaction." *Mechanism and Machine Theory* 144 (2020): 103664.
+   [Real-time trajectory planning based on joint-decoupled optimization
+   in human-robot interaction](https://www.sciencedirect.com/science/article/pii/S0094114X19313849). *Mechanism and Machine Theory*, 2020.
  - **Zhang Shiyu**, Dai Shuling, Zanchettin Andrea Maria, Villa Renzo.
-   "Trajectory planning based on non-convex global optimization for
-   serial manipulators." *Applied Mathematical Modelling* 84 (2020):
-   89-105.
- - **Zhang Shiyu**, and Dai Shuling. "Real-time kinematical optimal
-   trajectory planning for haptic feedback manipulators." *Simulation: Transactions of the Society for Modeling and Simulation International* 95.7 (2019): 621-635.
- - **Zhang Shiyu**, and Dai Shuling. "Workspace analysis for haptic feedback
-   manipulator in virtual cockpit system." *Virtual Reality* 22.4 (2018):
-   321-338.
- - **Zhang Shiyu**, and Dai Shuling. "Real-time trajectory generation for
-   haptic feedback manipulators in virtual cockpit systems." *Journal of
-   Computing and Information Science in Engineering* 18.4 (2018): 041015.
-
+   [Trajectory planning based on non-convex global optimization for
+   serial manipulators](https://www.sciencedirect.com/science/article/pii/S0307904X2030130X). *Applied Mathematical Modelling*, 2020.
+ - **Zhang Shiyu**, and Dai Shuling. [Real-time kinematical optimal
+   trajectory planning for haptic feedback manipulators](https://journals.sagepub.com/doi/pdf/10.1177/0037549718815755). *Simulation: Transactions of the Society for Modeling and Simulation International*, 2019.
+ - **Zhang Shiyu**, and Dai Shuling. [Workspace analysis for haptic feedback
+   manipulator in virtual cockpit system](https://link.springer.com/article/10.1007/s10055-017-0327-y). *Virtual Reality*, 2018.
+ - **Zhang Shiyu**, and Dai Shuling. [Real-time trajectory generation for
+   haptic feedback manipulators in virtual cockpit systems](https://doi.org/10.1115/1.4041166). *Journal of
+   Computing and Information Science in Engineering*, 2018.
 
    
 Patents
