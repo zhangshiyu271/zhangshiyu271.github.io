@@ -26,9 +26,9 @@ Journal Articles
  - **Zhang Shiyu**, Pecora Federico. [Online Sequential Task Assignment with
    Execution Uncertainties for Multiple Robot Manipulators](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9468904). *IEEE
    Robotics and Automation Letters*, 2021. [[video](https://youtu.be/8s8kcXHJHM8)]
- - **Zhang Shiyu**, Dai Shuling, Zhao Yongjia. Continuous Trajectory
+  - **Zhang Shiyu**, Dai Shuling, Zhao Yongjia. [Continuous Trajectory
    Planning Based on Learning Optimization in High Dimensional Input
-   Space for Serial Manipulators. *Engineering Optimization*, accepted.
+   Space for Serial Manipulators](https://www.tandfonline.com/doi/full/10.1080/0305215X.2021.1958210). *Engineering Optimization*, 2021.
  - **Zhang Shiyu**, Zanchettin Andrea Maria, Villa Renzo, Dai Shuling.
    [Real-time trajectory planning based on joint-decoupled optimization
    in human-robot interaction](https://www.sciencedirect.com/science/article/pii/S0094114X19313849). *Mechanism and Machine Theory*, 2020.
