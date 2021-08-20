@@ -46,9 +46,8 @@ Journal Articles
    
 Patents
 ======
- - **Zhang Shiyu**, Dai Shuling. *Chinese invention patent*: A Virtual Cockpit
-   System with Haptic Feedback(一种带有力/触觉反馈的虚拟现实飞机座舱系统). (Approved, publication number:
+ - **Zhang Shiyu**, Dai Shuling. *Chinese invention patent*: [一种带有力/触觉反馈的虚拟现实飞机座舱系统 (A Virtual Cockpit
+   System with Haptic Feedback)](https://patents.google.com/patent/CN107221223A/zh). (Approved, publication number:
    CN107221223B)
- - **Zhang Shiyu**, Dai Shuling. *Chinese invention patent*: A Haptic Feedback
-   System Based on the Servo Manipulator(一种基于伺服机构的主动力触觉反馈系统及其工作方法). (Approved, publication number:
-   CN107728778B)
+ - **Zhang Shiyu**, Dai Shuling. *Chinese invention patent*: [一种基于伺服机构的主动力触觉反馈系统及其工作方法 (A Haptic Feedback
+   System Based on the Servo Manipulator)](https://patents.google.com/patent/CN107728778B/zh). (Approved, publication number: CN107728778B)
