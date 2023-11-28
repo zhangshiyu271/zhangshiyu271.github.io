@@ -23,7 +23,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Journal Articles
 ======
- - **Zhang Shiyu**, Pecora Federico. [Online and Scalable Motion Coordination for Multiple Robot Manipulators in Shared Workspaces](https://ieeexplore.ieee.org/abstract/document/10103893). *IEEE Transactions on Automation Science and Engineering*, 2021. [[video](https://youtu.be/nl1s8ReVDBQ)][[Source code](https://github.com/zhangshiyu271/multi_arm_coordination)]
+ - **Zhang Shiyu**, Pecora Federico. [Online and Scalable Motion Coordination for Multiple Robot Manipulators in Shared Workspaces](https://ieeexplore.ieee.org/abstract/document/10103893). *IEEE Transactions on Automation Science and Engineering*, 2023. [[video](https://youtu.be/nl1s8ReVDBQ)][[Source code](https://github.com/zhangshiyu271/multi_arm_coordination)]
  - **Zhang Shiyu**, Pecora Federico. [Online Sequential Task Assignment with
    Execution Uncertainties for Multiple Robot Manipulators](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9468904). *IEEE
    Robotics and Automation Letters*, 2021. [[video](https://youtu.be/8s8kcXHJHM8)]
